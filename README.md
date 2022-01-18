@@ -10,3 +10,6 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 ## Results:
 ### Create a Mapbox account, setup *config.js* and open *index.html*
 To interact with the maps API the user has to visit [mapbox.com](https://www.mapbox.com/), and create a Mapbox account and retrieve the free access token.
+
+### Link to Interactive Maps webpage
+The deployed webpage is accessible at [https://skaram16.github.io/mapping_earthquakes/]
